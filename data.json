@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xF68EA78e66EFE0Bd5d2f3A8fb24E6561ba41D044"
+    },
+    {
+      "id": 2,
+      "name": "Rate in Native Coin",
+      "value": "140250"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "kai Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "is the coin that will dethrone dog meme coin, and usher in a new a era in crypto."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "KAI"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0x5e9DA665792206FCf5E31Ba755ce3a27aa614E53"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "KAI"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "30000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "10000000"
+    },
+    {
+      "id": 11,
+      "name": "Alert text",
+      "value": "Buy and receive your tokens immediately!"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2024-08-03T23:59:59"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "5"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0x0d20d91ffaf8e976da0dd132c5256d4d70a1e144"
+    },
+    {
+      "id": 15,
+      "name": "Telegram Link",
+      "value": "https://t.me/kai_tokenerc"
+    },
+    {
+      "id": 16,
+      "name": "Twitter Link",
+      "value": "https://twitter.com/kai_cat_coin?t=hycLqgBVms89uDtO5Szo_Q&s=09"
+    },
+    {
+      "id": 17,
+      "name": "Listing Price",
+      "value": "0.01"
+    },
+    {
+      "id": 18,
+      "name": "Chain Name",
+      "value": "BNB Smart Chain"
+    },
+    {
+      "id": 19,
+      "name": "Chain ID",
+      "value": "56"
+    },
+    {
+      "id": 20,
+      "name": "Native Coin",
+      "value": "BNB"
+    },
+    {
+      "id": 21,
+      "name": "Minimum Buy",
+      "value": "0.01"
+    },
+    {
+      "id": 22,
+      "name": "Maximum Buy",
+      "value": "5"
+    }
+    
+  ]
+  
